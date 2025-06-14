@@ -17,7 +17,7 @@
 
 -- test 데이터베이스 구조 내보내기
 CREATE DATABASE IF NOT EXISTS `feature_test` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
-USE `feture_test`;
+USE `feature_test`;
 
 -- 테이블 test.alarm 구조 내보내기
 CREATE TABLE IF NOT EXISTS `alarm` (
